@@ -1,0 +1,1 @@
+A challenge from frontend mentor to recreate a responsive landing page with a funtional burger menu using js when in mobile mode.
